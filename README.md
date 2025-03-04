@@ -24,3 +24,5 @@ ultimo intento GitHub
 sexta linea con el main
 
 FIN con GITHUB
+
+uso del fetch 
