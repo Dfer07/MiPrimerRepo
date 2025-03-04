@@ -26,3 +26,6 @@ sexta linea con el main
 FIN con GITHUB
 
 uso del fetch 
+
+
+Cambios desde mi rama local dev1
