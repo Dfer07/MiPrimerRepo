@@ -94,30 +94,37 @@ para ver un checklist chevere puedes usar esto:
 ---
 El subrayado en amarillo de frases o palabras lo puedes ver usando:
 
-==very important words==
+```html
+Este es un texto <mark>resaltado en amarillo</mark>.
+```
+
+Se veria asi: 
+
+Este es un texto <mark>resaltado en amarillo</mark>.
 
 ---
 
 Para hacer un subnumero puedes usar esta notacion que es entre virguliñas un numero o texto.
 
 ```html
-H~2~O 
+H<sub>2</sub>O es agua.
 ```
 
 Se veria asi:
 
-H~2~O
+H<sub>2</sub>O es agua.
 
 ---
 
 Si lo que quieres es un exponencial puedes usar la ^ al inicio y final del texto o numero ejemplo:
 
 ```html
-X^2^
+X<sup>2</sup> es una potencia.
+
 ```
 
 se veria asi:
 
-X^2^
+X<sup>2</sup> es una potencia.
 
 ---
