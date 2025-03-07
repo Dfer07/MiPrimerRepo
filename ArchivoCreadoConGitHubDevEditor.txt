@@ -1,0 +1,6 @@
+Este es un archivo creado presionando dentro de mi repositorio la tecla "." (Punto) y esto automaticamente abre
+un editor de codigo que te permite hacer pequeños cambios.
+
+¿Cual es la diferencia entre GitHub.dev Editor con CodeSpaces?
+Que este es solo editor de codigo, es decir no tiene una terminal, si la intentas abrir te dira que te recomienda
+usar CodeSpaces.
