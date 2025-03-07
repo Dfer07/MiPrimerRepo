@@ -1,3 +1,3 @@
 num=int(input("Digite un numero: "))
 
-print("el numero antes del elegido es: ",num)
+print("el numero antes del elegido es: ",num-1)
