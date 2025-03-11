@@ -128,3 +128,17 @@ se veria asi:
 X<sup>2</sup> es una potencia.
 
 ---
+
+Para hacer un boton de entrada de teclado puedes escribir:
+
+```html
+<kbd>boton1</kbd>
+```
+
+Se veria asi:
+
+<kbd>boton1</kbd>
+
+---
+
+
